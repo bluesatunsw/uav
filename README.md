@@ -4,8 +4,9 @@ A long-range autonomous UAV for spotfire detection.
 
 ## Project structure
 
-TODO
-
+* CAD: Electronic and structural CAD files.
+* embedded: Code targeting microcontrollers onboard.
+* orch: Code targeting RPi/Jetson/other main computer
 
 ## Git Hygiene guide
 
